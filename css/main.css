@@ -6,7 +6,7 @@ html {
 }
 body {
 	font: 1em/1.5 'Poppins', sans-serif; /* 10px @ 10px */
-	background: rgba(104, 75, 177,.95) url("../images/bg-mobile.svg") no-repeat top center;
+	background: rgba(104, 75, 177,1) url("../images/bg-mobile.svg") no-repeat top center;
 	padding:3.5em; /* 35px @ 10px */
 }
 * {
